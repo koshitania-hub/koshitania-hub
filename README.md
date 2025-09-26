@@ -12,10 +12,8 @@
 ---
 
 ## 📊 Projekty
-- **💼 Analiza statystyczna – Projekt Portfelowy**: Badanie danych i wizualizacja kluczowych trendów.  
-  Pliki projektu: 
-  - [Notebook (.ipynb)](Analiza_statystyczna_Projekt_Portfelowy.ipynb)   
-  - [PDF wersja](Analiza_statystyczna_Projekt_Portfelowy.pdf)  
+- **💼 [Analiza statystyczna – Projekt Portfelowy](Analiza_statystyczna_Projekt_Portfelowy/)**:  
+  Badanie danych i wizualizacja kluczowych trendów. 
  
 
 ---
