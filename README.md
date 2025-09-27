@@ -13,8 +13,10 @@
 
 ## 📊 Projekty
 - **💼 [Analiza statystyczna – Projekt Portfelowy](Analiza_statystyczna_Projekt_Portfelowy/)**:  
-  Badanie danych i wizualizacja kluczowych trendów. 
- 
+  Badanie danych i wizualizacja kluczowych trendów.  
+
+- **🌍 [Power BI – World Stats Project](PowerBI_World_Stats_Project/)**:  
+  Analiza wskaźników demograficznych, społecznych i ekonomicznych krajów świata w Power BI.
 
 ---
 
